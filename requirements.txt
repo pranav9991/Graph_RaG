@@ -1,0 +1,30 @@
+# --- Core Framework ---
+streamlit
+python-dotenv
+
+# --- LlamaIndex (Core + Community + Graph) ---
+llama-index-core
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-readers-file
+llama-index-utils-workflow
+
+# --- Data Handling ---
+pandas
+numpy
+
+# --- Graph + Community Detection ---
+networkx
+graspologic
+
+# --- PDF Support ---
+PyMuPDF
+
+
+# --- Async + Utilities ---
+nest_asyncio
+tqdm
+
+# --- Visualization (optional but useful) ---
+matplotlib
+plotly
